@@ -1,4 +1,4 @@
-// ==PHPstorm php online manual to zh==
+// ==UserScript==
 // @name         php英文在线手册跳转到中文手册
 // @namespace    http://www.tang3.net/
 // @version      0.1
@@ -8,8 +8,7 @@
 // @match        *://php.net/manual/en*
 // @match        *.php.net/manual/en*
 // @match        *.php.net/*/en*
-// @grant        none
-// ==/PHPstorm php online manual to zh==
+// ==/UserScript==
 
 (function() {
     'use strict';
